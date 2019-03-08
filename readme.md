@@ -23,14 +23,14 @@ Functionalities:
 1. Horizontal Scroll
 2. Vertical Scroll
 
-### Import <LINK> Tags:
+### Import LINK Tags:
 
 ```
 <link rel="stylesheet" href="https://unpkg.com/carbon-components@latest/css/carbon-components.css">
 <link rel="stylesheet" href="track.css">
 ```
 
-### Import <SCRIPT> Tags:
+### Import SCRIPT Tags:
 
 ```
 <script src="https://unpkg.com/carbon-components@latest/scripts/carbon-components.js"></script>
