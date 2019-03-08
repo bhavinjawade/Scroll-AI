@@ -1,7 +1,7 @@
 # Scroll AI
 
 This library all you control a webpage using handgestures of left-right, up-down. (For Scrolling the webpage). This library
-is a wrapper over handtracking.js .
+is a wrapper over handtracking.js.
 
 Working on Improving accuracy.
 
