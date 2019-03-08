@@ -7,6 +7,7 @@ Move your hand:
 1. From top to bottom
 2. From bottom to top
 3. From left to right
+4. From right to left.
 
 Working on Improving accuracy.
 
