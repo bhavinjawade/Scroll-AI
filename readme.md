@@ -1,5 +1,7 @@
 # Scroll AI
 
+<img src = "https://img.shields.io/badge/Development-Work%20in%20Progress-green.svg">
+
 This library all you control a webpage using handgestures of left-right, up-down. (For Scrolling the webpage). This library
 is a wrapper over handtracking.js.
 
@@ -8,6 +10,8 @@ Move your hand:
 2. From bottom to top
 3. From left to right
 4. From right to left.
+
+
 
 Working on Improving accuracy.
 
