@@ -3,6 +3,11 @@
 This library all you control a webpage using handgestures of left-right, up-down. (For Scrolling the webpage). This library
 is a wrapper over handtracking.js.
 
+Move your hand:
+1. From top to bottom
+2. From bottom to top
+3. From left to right
+
 Working on Improving accuracy.
 
 <a href="http://tinypic.com?ref=309o8e1" target="_blank">
